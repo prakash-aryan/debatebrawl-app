@@ -64,8 +64,8 @@ DebateBrawl is an interactive platform where users can engage in intellectually 
 
 ### 1. Clone the Repository
 ```bash
-git clone 
-cd debatebrawl
+git clone git@github.com:prakash-aryan/debatebrawl-app.git
+cd debatebrawl-app
 ```
 
 ### 2. Install Ollama Models
