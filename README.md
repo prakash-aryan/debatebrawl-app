@@ -150,7 +150,11 @@ npm run dev
 ## Screenshots
 
 ### Main Interface
+<<<<<<< HEAD
 <video controls src="debatebrawlapp.mp4" title="Title"></video>
+=======
+https://github.com/user-attachments/assets/1647da86-3dc0-4b7d-80cf-7dfec58bc18d
+>>>>>>> a643bb985c3cfe39fa007b66b15054843031cf3d
 
 ### Debate Flow
 ![alt text](image-2.png)
