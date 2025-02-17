@@ -150,6 +150,7 @@ npm run dev
 ## Screenshots
 
 ### Main Interface
+https://github.com/user-attachments/assets/1647da86-3dc0-4b7d-80cf-7dfec58bc18d
 
 ### Debate Flow
 ![alt text](image-2.png)
