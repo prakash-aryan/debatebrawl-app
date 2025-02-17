@@ -1,0 +1,62 @@
+# Frontend dependencies
+debatebrawl_frontend/node_modules/
+debatebrawl_frontend/.pnp
+debatebrawl_frontend/.pnp.js
+debatebrawl_frontend/.yarn/install-state.gz
+
+# Frontend testing
+debatebrawl_frontend/coverage/
+
+# Frontend Next.js
+debatebrawl_frontend/.next/
+debatebrawl_frontend/out/
+
+# Frontend production
+debatebrawl_frontend/build/
+debatebrawl_frontend/dist/
+
+# Frontend logs
+debatebrawl_frontend/npm-debug.log*
+debatebrawl_frontend/yarn-debug.log*
+debatebrawl_frontend/yarn-error.log*
+
+# Frontend TypeScript
+debatebrawl_frontend/*.tsbuildinfo
+debatebrawl_frontend/next-env.d.ts
+
+# Frontend Vercel
+debatebrawl_frontend/.vercel
+
+# Backend Python
+debatebrawl_backend/__pycache__/
+debatebrawl_backend/*/__pycache__/
+debatebrawl_backend/*/*/__pycache__/
+debatebrawl_backend/.venv/
+debatebrawl_backend/venv/
+debatebrawl_backend/ENV/
+debatebrawl_backend/*.py[cod]
+debatebrawl_backend/*$py.class
+debatebrawl_backend/*.so
+debatebrawl_backend/.Python
+debatebrawl_backend/*.egg
+debatebrawl_backend/*.egg-info/
+
+# Environment Variables
+debatebrawl_frontend/.env*.local
+debatebrawl_backend/.env
+
+# Firebase
+debatebrawl_backend/debatebrawl-firebase-adminsdk*.json
+firebase-debug.log
+firebase-debug.*.log
+debatebrawl_backend\debatebrawl-firebase-adminsdk-2jwyy-6bf3f28170.json
+debatebrawl_backend\.env
+debatebrawl_frontend\.env.local
+
+# IDE
+.idea/
+.vscode/
+
+# Misc
+.DS_Store
+*.pem

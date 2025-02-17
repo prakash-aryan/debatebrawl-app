@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+firebase-admin
+requests
+pygad
+pydantic<2.0.0
+python-dotenv
+numpy
+pandas
+matplotlib
+seaborn
+typing-extensions
+python-multipart
