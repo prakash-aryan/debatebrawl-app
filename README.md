@@ -150,6 +150,7 @@ npm run dev
 ## Screenshots
 
 ### Main Interface
+<video controls src="debatebrawlapp.mp4" title="Title"></video>
 
 ### Debate Flow
 ![alt text](image-2.png)
@@ -207,7 +208,7 @@ If you use DebateBrawl in your research, please cite it as:
 
 You can also cite the paper directly using:
 
-Aryan, P. (2024). LLMs as Debate Partners: Utilizing Genetic Algorithms and Adversarial Search for Adaptive Arguments. arXiv preprint arXiv:2412.06229.
+[Aryan, P. (2024). LLMs as Debate Partners: Utilizing Genetic Algorithms and Adversarial Search for Adaptive Arguments. arXiv preprint arXiv:2412.06229.](2412.06229v1.pdf)
 
 ## License
 
