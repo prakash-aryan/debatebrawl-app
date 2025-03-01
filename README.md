@@ -4,6 +4,15 @@ A sophisticated AI-powered debate platform that integrates Large Language Models
 
 ![alt text](image.png)
 
+## (NEW) CLI app available now, give it a try!
+![CLI App](https://github.com/user-attachments/assets/3ea5fa43-8860-4ac5-a0c7-ac30969c8940)
+
+To run the CLI app:
+```bash
+python main.py
+python debatebrawl_cli.py
+```
+
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
@@ -13,7 +22,6 @@ A sophisticated AI-powered debate platform that integrates Large Language Models
 - [Configuration](#configuration)
 - [Running the Application](#running-the-application)
 - [Screenshots](#screenshots)
-- [Technical Details](#technical-details)
 - [Contributing](#contributing)
 - [License](#license)
 
