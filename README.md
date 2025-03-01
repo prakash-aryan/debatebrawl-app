@@ -9,6 +9,7 @@ A sophisticated AI-powered debate platform that integrates Large Language Models
 
 To run the CLI app:
 ```bash
+cd debatebrawl_backend
 python main.py
 python debatebrawl_cli.py
 ```
